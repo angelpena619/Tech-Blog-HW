@@ -1,8 +1,8 @@
 
   # Tech Blog
   ##  Description
-   this will allow a user to add employees by role, and dynamiclly create an HTML page with employee information cards. 
-
+   A tech Blog
+   
   ## Table of Contents
 
 
